@@ -13,7 +13,7 @@ menu:
   docs:
     parent: Git Sync
     weight: 1
-
+draft: true
 ---
 Forestry saves changes to your content by committing back to your Git repository. Adding a site to Forestry first requires that the source code for your site is available through one of our supported source providers. When setting up a new site in Forestry, you will be prompted to connect to your preferred source provider to link your repository.
 

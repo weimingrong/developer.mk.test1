@@ -13,7 +13,7 @@ menu:
   docs:
     parent: Editing
     weight: 1
-
+draft: true
 ---
 Forestry allows developers and editors to manage their website in a variety of different ways. This enables developers to build powerful, static sites while empowering editors to take full control over their content.
 
